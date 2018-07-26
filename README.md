@@ -132,6 +132,7 @@
 #### java
 - [apache/ignite](https://github.com/apache/ignite) Mirror of Apache Ignite
 - [auth0/java-jwt](https://github.com/auth0/java-jwt) Java implementation of JSON Web Token (JWT)
+- [b3log/solo](https://github.com/b3log/solo) A beautiful, simple, stable, fast Java blogging system. 一款漂亮、简约、稳定、极速的 Java 博客系统。
 - [code4craft/tiny-spring](https://github.com/code4craft/tiny-spring) A tiny IoC container refer to Spring.
 - [ctgk/PRML](https://github.com/ctgk/PRML) PRML algorithms implemented in Python
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) A damn simple library for building production-ready RESTful web services. https://www.dropwizard.io
@@ -222,8 +223,10 @@
 - [gaojiuli/gain](https://github.com/gaojiuli/gain) Web crawling framework based on asyncio.
 - [howie6879/hproxy](https://github.com/howie6879/hproxy) hproxy - Asynchronous IP proxy pool, aims to make getting proxy as convenient as possible.(异步爬虫代理池) https://hproxy.htmlhelper.org/api
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) Python爬虫代理IP池(proxy pool)
+- [binux/pyspider](https://github.com/binux/pyspider) A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) Scrapy, a fast high-level web crawling & scraping framework for Python. https://scrapy.org
 - [xuxueli/xxl-crawler](https://github.com/xuxueli/xxl-crawler) A distributed web crawler framework.（分布式爬虫框架XXL-CRAWLER） http://www.xuxueli.com/xxl-crawler
+- [code4craft/webmagic](https://github.com/code4craft/webmagic) A scalable web crawler framework for Java. http://webmagic.io/
 
 ## 素材 Related
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕 https://adobe.ly/SourceHanSans
